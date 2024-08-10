@@ -1,0 +1,7 @@
+Este programa muestra como inicializar punteros,
+y una muestra breve de su logica de funcionamiento.
+
+Se crea una variable que almacena un dato y se visualiza como acceder al dato y a la posicion en memoria.
+
+Se inicializa un puntero, y se indica a donde va a apuntar, y se puede observar el valor que contiene
+esa direccion.
